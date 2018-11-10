@@ -1,5 +1,8 @@
 # Web wallet for any Altcoin
 
+If you need web wallet for your cryptocurrency, please contac me on Discord
+Niiks#7131
+
 Features:
 
 - Manual User Reserve
