@@ -12,7 +12,14 @@ Features:
 
 - QR Codes for Addresses
 
+- Google 2 Factor Auth
 
-Examples:
+- Price in USD if coin is listing on Coingecko or similar
 
+
+Example:
 http://159.65.246.143/wallet/
+
+
+Works:
+https://web.gamblers.reviews
